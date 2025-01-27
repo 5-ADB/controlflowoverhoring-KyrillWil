@@ -11,3 +11,31 @@
  * stilte geeft echter enkel een output als de radio aan staat
  * licht uit geeft enkel otuput als het licht al aan was
  */
+
+let commando = "muziek"
+
+const openDeur = "Deur gaat open"
+const muziek = "Muziek start met spelen"
+const stilte = "Muziek gaat uit"
+const lichtAan = "Licht gaat aan"
+const lichtUit = "Licht Gaat uit"
+
+switch (commando) {
+    case commando = "open deur":
+        console.log(openDeur);
+        break;
+    case commando = "muziek":
+        console.log(muziek);
+        break;
+    case commando = "stilte":
+            console.log(stilte);
+            break;
+    case commando = "licht aan":
+        console.log(lichtAan);
+        break;
+    case commando = "licht uit":
+        console.log(lichtUit);
+        break;
+    default:
+        break;
+}

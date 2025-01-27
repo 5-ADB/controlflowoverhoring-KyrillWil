@@ -20,3 +20,17 @@
  * in de console krijg ik
  * 4 + 4 = 8
  */
+
+
+console.log("test");
+
+let startGetal = 4
+let eindGetal = 15
+
+if (startGetal>eindGetal) {
+    console.log(`${startGetal} + ${startGetal} = ${startGetal + startGetal}`); 
+}
+for (startGetal; startGetal < eindGetal + 1; startGetal += startGetal) {
+    console.log(`${startGetal} + ${startGetal} = ${startGetal + startGetal}`); 
+}
+
