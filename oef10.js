@@ -19,3 +19,8 @@
 
 let startgetal = 2;
 const eindgetal = 12;
+
+for (startgetal; startgetal < eindgetal + 1; index++) {
+    const element = array[index];
+    
+}

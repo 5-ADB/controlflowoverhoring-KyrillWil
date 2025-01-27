@@ -25,7 +25,7 @@
 console.log("test");
 
 let startGetal = 4
-let eindGetal = 15
+const eindGetal = 15
 
 if (startGetal>eindGetal) {
     console.log(`${startGetal} + ${startGetal} = ${startGetal + startGetal}`); 
