@@ -5,3 +5,7 @@
  */
 
 let kleur;
+
+if (kleur == fale) {
+    console.log("groen");
+}
