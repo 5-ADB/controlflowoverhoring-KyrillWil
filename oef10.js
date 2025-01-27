@@ -20,7 +20,13 @@
 let startgetal = 2;
 const eindgetal = 12;
 
-for (startgetal; startgetal < eindgetal + 1; index++) {
-    const element = array[index];
-    
+for (startgetal; startgetal < eindgetal + 1; startgetal += 2) {
+    if (startgetal % 2 == 0) {
+            console.log(`het is in een even aantal keer gebeurt`);
+            console.log(`Het startgetal ${startgetal} werd x aantal keer verhoogt met 2 x wordt vervangen door het aantal keer.`);
+    }
+    else{
+        console.log(`het is in een oneven aantal keer gebeurt`);
+        console.log(`Het startgetal ${startgetal} werd x aantal keer verhoogt met 2 x wordt vervangen door het aantal keer.`);
+    }
 }

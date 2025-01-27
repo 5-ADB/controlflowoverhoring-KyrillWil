@@ -12,3 +12,11 @@
  * 4 x 10 = 40
  * 5 x 10 = 50
  */
+
+console.log("test");
+let getal = 0
+const kernGetal = 5
+
+for (getal; getal < kernGetal + 1; getal ++) {
+    console.log(`${getal} x 10 = ${getal * 10}`);    
+}
