@@ -1,3 +1,5 @@
+// vs code snelkoppelingen geven je veel, maa niet voldoende! 
+
 /**
  * Geef de correct syntact voor onderstaande zaken
  */

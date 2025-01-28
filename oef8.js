@@ -1,3 +1,6 @@
+// waarom maak je getal aan buiten je for lus? 
+// kernGetal + 1 ==> is dit nodig, kan dit niet eenvoudiger? <= 
+
 /**
  * Op basis van een kerngetal (0 tot 10) (opgegeven in het programm) toon ik de tafel van 10 tot 
  * aan dit getal

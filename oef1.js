@@ -1,3 +1,5 @@
+// dit zijn telkens numbers, dus geen verschillende types van variabelen
+
 /**
  * Maak 4 verschillende types van variabelen aan.
  * 2 van de variabelen zijn aanpasbaar doorheen de rest van de code, 

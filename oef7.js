@@ -1,3 +1,5 @@
+// waarom maar je je teller aan buiten je for lus? 
+
 /**
  * In de console moet je onderstaande verkrijgen
  *

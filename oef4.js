@@ -1,3 +1,6 @@
+// waarom zoveel variabelen als het gewoon iets moet uitschijven? 
+// je initialiseert commande telkens opnieuw, waarom, 
+
 /**
  * Maak zelf de nodige variabelen aan voor onderstaande probleem
  * 

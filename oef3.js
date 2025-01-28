@@ -1,3 +1,6 @@
+// dit werkt wel, maar is niet goed gecodeerd. 
+// waarom vergelijk je een boolean met true, dit is niet nodig
+
 /**
  * Je krijg 2 variabelen
  * Als de grond droog is, en er wordt geen regen voorspeld dan moet er in de

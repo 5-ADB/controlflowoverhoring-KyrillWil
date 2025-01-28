@@ -1,3 +1,6 @@
+// Deze oplossing is niet geheel ok en is iets te ver gezocht.
+// werk hier met een DO/while lus
+
 /**
  * Je beschikt over een startgetal en een eindgetal
  * Je verhoogt het startgetal telkens met zichzelf 
